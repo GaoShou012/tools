@@ -1,4 +1,4 @@
-package tools
+package ider
 
 import (
 	"container/list"
